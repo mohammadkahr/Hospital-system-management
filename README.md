@@ -1,10 +1,11 @@
 # Hospital-system-management
-      Final Project of Fundamentals of Computer and Programming
+      Project of Advance Programming
+          
           Dr.Shahgholi
           April 2022
 
           java
-        
+          Object Oriented Programming
     
 
       writed by:
